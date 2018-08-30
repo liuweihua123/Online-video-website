@@ -1,0 +1,234 @@
+.clx:after {
+	clear:both;
+	display:block;
+	visibility:hidden;
+	height:0;
+	content:"";
+	font-size:0;
+	line-height:0;
+}
+.clx {
+	zoom:1;
+}
+#set-nav ul,#set-cont ul {
+	display:block;
+	margin:0;
+	padding:0;
+	font-family:"Century Gothic","Lucida Grande",Helvetica,Arial,微软雅黑;
+}
+#set-nav li {
+	display:inline-block;
+	margin:0;
+}
+#set-nav a {
+	display:block;
+	text-decoration:none;
+	margin:0 15px 0 0;
+	padding:5px 13px;
+	border:1px solid #dfdfdf;
+	background-color:#f5f5f5;
+	outline:none;
+	-webkit-border-radius:2px 2px 0 0;
+	-moz-border-radius:2px 2px 0 0;
+	-o-border-radius:2px 2px 0 0;
+	border-radius:2px 2px 0 0;
+	color:#888;
+}
+#set-nav a.current {
+	background:#fff;
+	color:#D54E21;
+	border-bottom-color:#fff;
+}
+#set-cont {
+	width:850px;
+	margin-top:-1px;
+	display:block;
+	border:1px solid #DFDFDF;
+	background-color:#fff;
+}
+#set-cont li {
+	display:none;
+}
+#set-cont li.current {
+	display:block;
+}
+.item {
+	border-top:1px solid #DFDFDF;
+	padding:20px 0;
+}
+.span {
+	float:left;
+	width:150px;
+}
+.span2 {
+	width:450px;
+}
+.span2 .button{
+	vertical-align: bottom;
+}
+.span3 {
+	width:220px;
+}
+.span4 {
+	width:300px;
+}
+.span-preview {
+	text-align:center;
+}
+.span-preview img {
+	vertical-align:middle;
+	max-width:200px;
+	height:auto;
+}
+.span1,.span2 {
+	font-size:13px;
+}
+.item-1 {
+	border-top:none;
+}
+.set-label {
+	margin:20px 0 20px 20px;
+	display:block;
+	font-size:13px;
+}
+.set-textaera {
+	width:430px;
+	height:60px;
+	font-size:12px;
+	padding:4px;
+	color:#333;
+	line-height:1.5em;
+}
+.set-small {
+	margin:20px 0 20px 20px;
+	width:200px;
+	display:block;
+	font-size:12px;
+	color:#777;
+}
+.span3-jquery .set-small {
+	margin:0;
+}
+.set-input {
+	width:400px;
+	margin-top:15px;
+	font-size:13px;
+	padding:4px;
+	color:#333;
+	line-height:1em;
+}
+.set-input2 {
+	width:120px;
+	margin-right:15px;
+}
+.set-favicon,.set-logo,.set-thumb {
+	width:320px;
+	margin-right:10px;
+}
+.set-gap {
+	padding:5px 0;
+}
+.set-p {
+	padding:0 0 8px 0;
+	margin:0;
+}
+.span2-notes {
+	padding-top:20px;
+}
+.set-preview {
+	margin-top:10px;
+}
+.set-preview img {
+	border:1px solid #ccc;
+	padding:1px;
+}
+#jQuery,#msdn,#self,#sina {
+	margin-right:10px;
+}
+.mfthemes_submit_form {
+	float:left;
+	margin:20px 0 0 0;
+	display:block;
+}
+.mfthemes_reset_form {
+	float:left;
+	margin:8px 0 0 20px;
+	display:block;
+}
+.set-sns .set-label,.set-sns .set-small {
+	margin:20px 0 0 20px;
+}
+.mfthemes_option_wrap {
+	padding:15px 20px;
+}
+.layout {
+	float:left;
+	margin-right:20px;
+}
+.layout a {
+	width:80px;
+	height:80px;
+	display:block;
+	padding:1px;
+	border:2px solid #dedede;
+	background-position:center top;
+	background-repeat:no-repeat;
+	outline:none;
+}
+.layout a:hover {
+	border-color:#999;
+}
+.layout a.current {
+	border-color:#f05c28;
+}
+.layout-1 a {
+	background-image:url(../images/lay2.png);
+}
+.layout-2 a {
+	background-image:url(../images/lay1.png);
+}
+.set-hidden {
+	display:none;
+}
+.dbutton {
+	background:#F3F3F3;
+	background-image:-webkit-gradient(linear,left top,left bottom,from(#FEFEFE),to(#F4F4F4));
+	background-image:-webkit-linear-gradient(top,#FEFEFE,#F4F4F4);
+	background-image:-moz-linear-gradient(top,#FEFEFE,#F4F4F4);
+	background-image:-o-linear-gradient(top,#FEFEFE,#F4F4F4);
+	background-image:linear-gradient(to bottom,#FEFEFE,#F4F4F4);
+	border-color:#BBB;
+	color:#333;
+	text-shadow:0 1px 0 white;
+	display:inline-block;
+	text-decoration:none;
+	font-size:12px;
+	line-height:23px;
+	height:24px;
+	margin:0;
+	padding:0 10px 1px;
+	cursor:pointer;
+	border-width:1px;
+	border-style:solid;
+	-webkit-border-radius:3px;
+	-webkit-appearance:none;
+	border-radius:3px;
+	white-space:nowrap;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+}
+.dbutton:hover,.dbutton:focus {
+	background:#F3F3F3;
+	background-image:-webkit-gradient(linear,left top,left bottom,from(white),to(#F3F3F3));
+	background-image:-webkit-linear-gradient(top,white,#F3F3F3);
+	background-image:-moz-linear-gradient(top,white,#F3F3F3);
+	background-image:-ms-linear-gradient(top,white,#F3F3F3);
+	background-image:-o-linear-gradient(top,white,#F3F3F3);
+	background-image:linear-gradient(to bottom,white,#F3F3F3);
+	border-color:#999;
+	color:#222;
+}
+#set-buglink a {
+	margin-right:8px;
+}

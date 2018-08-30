@@ -1,0 +1,1607 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LoveVideo 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-12 13:13+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: www.dz9.net <932340056@qq.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mfthemes-admin.php:28
+msgid "settings saved."
+msgstr "设置成功！"
+
+#: 404.php:6
+msgid "What you are looking for does not exist"
+msgstr "你所找的视频不存在哦!"
+
+#: 404.php:6
+msgid "We strongly recommend the following article"
+msgstr "鹳狸猿大叔极力向你推荐以下精彩内容:"
+
+#: 404.php:13
+msgid "Back to home page"
+msgstr "回到首页"
+
+#: archive.php:8
+msgid "category&#58;"
+msgstr "分类&#58;"
+
+#: archive.php:10
+msgid "tag&#58;"
+msgstr "标签&#58;"
+
+#: archive.php:13
+#: index.php:11
+msgid "Default"
+msgstr "普通布局"
+
+#: archive.php:14
+#: index.php:12
+msgid "Waterfall"
+msgstr "流体布局"
+
+#: author.php:34
+#: author.php:40
+msgid "custom cover"
+msgstr "自定义封面"
+
+#: author.php:52
+msgid "sure"
+msgstr "确定"
+
+#: author.php:53
+msgid "cancle"
+msgstr "取消"
+
+#: author.php:80
+msgid "Edit my profile"
+msgstr "编辑个人资料"
+
+#: author.php:83
+msgid "followed"
+msgstr "已关注"
+
+#: author.php:83
+msgid "&#124; unfollow"
+msgstr "&#124; 取消"
+
+#: author.php:85
+#: author.php:89
+msgid "&#43; follow"
+msgstr "&#43; 关注"
+
+#: author.php:97
+msgid "Home"
+msgstr "个人主页"
+
+#: author.php:98
+msgid "My Likes"
+msgstr "喜欢搜藏"
+
+#: author.php:100
+#: page-editor.php:49
+msgid "New image"
+msgstr "发布图片"
+
+#: author.php:101
+#: page-editor.php:107
+msgid "New video"
+msgstr "发布视频"
+
+#: author.php:102
+#: page-editor.php:144
+msgid "New text"
+msgstr "发布文字"
+
+#: author.php:132
+msgid "all list"
+msgstr "所有"
+
+#: author.php:133
+msgid "standard list"
+msgstr "文字"
+
+#: author.php:134
+msgid "image list"
+msgstr "图片"
+
+#: author.php:135
+msgid "video list"
+msgstr "视频"
+
+#: author.php:196
+msgid "following&#47;followers"
+msgstr "关注&#47;粉丝"
+
+#: author.php:197
+msgid "His following and followers"
+msgstr "TA的关注和粉丝"
+
+#: author.php:202
+msgid "His following"
+msgstr "关注"
+
+#: author.php:226
+msgid "His followers"
+msgstr "粉丝"
+
+#: authors-image.php:10
+#: authors-video.php:9
+#: authors.php:7
+msgid "Comments"
+msgstr "评论"
+
+#: authors-image.php:11
+#: authors-video.php:10
+#: authors.php:8
+#: content-image.php:8
+#: content-video.php:8
+#: content.php:9
+msgid "Views"
+msgstr "热度"
+
+#: comments.php:2
+msgid "Enter your password to view comments."
+msgstr "这篇文章有密码，请输入密码访问！"
+
+#: comments.php:12
+msgid "You need "
+msgstr "你需要"
+
+#: comments.php:12
+msgid "login in"
+msgstr "登录"
+
+#: comments.php:12
+msgid " to comment"
+msgstr "之后来评论"
+
+#: comments.php:24
+msgid "<small>Name:</small>"
+msgstr "<small>昵称:</small>"
+
+#: comments.php:24
+#: comments.php:26
+msgid " "
+msgstr ""
+
+#: comments.php:26
+msgid "<small>Email:</small>"
+msgstr "<small>邮箱:</small>"
+
+#: comments.php:28
+msgid "<small>Page:</small>"
+msgstr "<small>网址:</small>"
+
+#: comments.php:36
+msgid "Submit Comment"
+msgstr "发表评论"
+
+#: comments.php:46
+msgid "Internet user comments"
+msgstr "网友评论"
+
+#: comments.php:46
+msgid "times"
+msgstr "条"
+
+#: comments.php:52
+msgid "&laquo; Older Comments"
+msgstr "&laquo; 旧评论"
+
+#: comments.php:53
+msgid "Newer Comments &raquo;"
+msgstr "新评论 &raquo;"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "评论关闭！"
+
+#: page-editor.php:50
+msgid "Delete image"
+msgstr "删除图片"
+
+#: page-editor.php:53
+msgid "Image upload"
+msgstr "上传图片"
+
+#: page-editor.php:54
+#: page-editor.php:83
+msgid "Outer chain image upload"
+msgstr "外链图片"
+
+#: page-editor.php:56
+msgid "Support JPG/JPEG/BMP/PNG, Maximum upload file size: 32MB"
+msgstr "支持 JPG/JPEG/BMP/PNG 格式图片, 最大上传文件大小: 32MB"
+
+#: page-editor.php:60
+msgid "title<span class=\"small-tips\">&#40;you can not fill&#41;</span>"
+msgstr "标题<span class=\"small-tips\">&#40;可不填&#41;</span>"
+
+#: page-editor.php:61
+#: page-editor.php:119
+#: page-editor.php:145
+msgid "post title"
+msgstr "文章标题"
+
+#: page-editor.php:62
+#: page-editor.php:125
+msgid "content<span class=\"small-tips\">&#40;you can not fill&#41;</span>"
+msgstr "描述<span class=\"small-tips\">&#40;可不填&#41;</span>"
+
+#: page-editor.php:74
+msgid "close"
+msgstr "关闭"
+
+#: page-editor.php:78
+msgid "Insert multimedia"
+msgstr "插入多媒体"
+
+#: page-editor.php:79
+msgid "Upload local pictures"
+msgstr "上传本地图片"
+
+#: page-editor.php:84
+msgid "Add batch picture: (multiple url please select carriage returns, repeat pictures will be filter out), input after completion of the click:"
+msgstr "添加批量图片：（多个url请选择回车换行，重复图片会被过滤掉），输入完成后点击："
+
+#: page-editor.php:84
+msgid "Insert Outer chain"
+msgstr "插入外链图片"
+
+#: page-editor.php:88
+msgid "Images url"
+msgstr "输入图片地址"
+
+#: page-editor.php:93
+msgid "Insert to post"
+msgstr "插入到文章"
+
+#: page-editor.php:109
+#: page-editor.php:113
+msgid "Video url"
+msgstr "视频地址"
+
+#: page-editor.php:109
+msgid "Suppost youku, 56, tudou"
+msgstr "支持优酷、土豆、56网的视频发布"
+
+#: page-editor.php:110
+msgid "Unrecognized address"
+msgstr "无法识别的地址"
+
+#: page-editor.php:111
+msgid "Loading address"
+msgstr "正在识别"
+
+#: page-editor.php:118
+msgid "Title"
+msgstr "标题"
+
+#: page-editor.php:159
+#: page-editor.php:160
+msgid "Post category"
+msgstr "文章分类"
+
+#: page-editor.php:176
+msgid "Post Tags"
+msgstr "文章标签"
+
+#: page-editor.php:180
+msgid "Add tag, separated by a comma or press enter"
+msgstr "添加标签，以逗号或回车隔开"
+
+#: page-editor.php:183
+msgid "popular tags"
+msgstr "热门标签"
+
+#: page-editor.php:191
+msgid "editor the post"
+msgstr "修改文章"
+
+#: page-profile.php:51
+msgid "Your profile has been updated."
+msgstr "您的资料已经更新"
+
+#: page-profile.php:63
+msgid "Nickname"
+msgstr "昵称别名"
+
+#: page-profile.php:67
+msgid "The Email"
+msgstr "邮箱地址"
+
+#: page-profile.php:71
+msgid "Profile"
+msgstr "个人资料"
+
+#: page-profile.php:77
+msgid "Change password"
+msgstr "更换密码"
+
+#: page-profile.php:83
+msgid "Password Again"
+msgstr "重复输入密码"
+
+#: page-profile.php:84
+msgid "The passwords don't match"
+msgstr "两次密码不匹配"
+
+#: page-profile.php:97
+msgid "Update Profile"
+msgstr "更新个人资料"
+
+#: page-profile.php:105
+msgid "Change avatar"
+msgstr "更换头像"
+
+#: page-profile.php:108
+msgid "registration date&#58;"
+msgstr "加入时间&#58; "
+
+#: page-submit.php:50
+msgid "delete image"
+msgstr "删除图片"
+
+#: page-submit.php:56
+msgid "Support JPG/JPEG/PNG. After pictures uploaded you can press the mouse to sort.<br />If you wan't to delete one, just drag it to the recyle on the left part."
+msgstr "支持JPG/JPEG/PNG，图片传完后可以鼠标拖动排序。<br />如果需要删除某一张图片，直接拖动到左侧回收站。"
+
+#: page-submit.php:71
+#: page-submit.php:72
+msgid "Post extra link"
+msgstr "文章附加链接地址"
+
+#: page-submit.php:180
+#: page-upload.php:150
+msgid "Submit the new post"
+msgstr "发布新文章"
+
+#: page-upload.php:60
+msgid "Login at "
+msgstr "登录"
+
+#: page-upload.php:63
+msgid "Username&#58;"
+msgstr "用户名&#58;"
+
+#: page-upload.php:67
+msgid "Password&#58;"
+msgstr "密码&#58;"
+
+#: page-upload.php:74
+msgid "Captcha&#58;"
+msgstr "验证码&#58;"
+
+#: page-upload.php:76
+msgid "See? Click replace"
+msgstr "看不清楚？ 点击更换"
+
+#: page-upload.php:77
+msgid "Click replace"
+msgstr "点击更换"
+
+#: page-upload.php:85
+msgid "Auto login"
+msgstr "下次自动登录"
+
+#: page-upload.php:86
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#: page-upload.php:90
+msgid "Login"
+msgstr "登录"
+
+#: search.php:30
+msgid "isn't a suitable word, maybe you can try these lovely photos"
+msgstr "貌似是一个不太合适的词汇, 不如看看下面这些超级卡哇伊的图片哟~"
+
+#: search.php:32
+#: search.php:33
+msgid "Search"
+msgstr "搜索"
+
+#: sidebar.php:1
+msgid "Please go to the add background small tools"
+msgstr "请到后台添加小工具"
+
+#: functions/mfthemes-admin.php:5
+#: functions/mfthemes-admin.php:36
+msgid "theme option"
+msgstr "主题设置"
+
+#: functions/mfthemes-admin.php:42
+msgid "Basic Settings"
+msgstr "基础设置"
+
+#: functions/mfthemes-admin.php:43
+msgid "Appearances Settings"
+msgstr "外观设置"
+
+#: functions/mfthemes-admin.php:44
+msgid "Filmstrip Settings"
+msgstr "幻灯片设置"
+
+#: functions/mfthemes-admin.php:45
+msgid "Advertisement Settings"
+msgstr "广告设置"
+
+#: functions/mfthemes-admin.php:46
+msgid "Function Settings"
+msgstr "功能设置"
+
+#: functions/mfthemes-admin.php:47
+msgid "Sns Settings"
+msgstr "SNS设置"
+
+#: functions/mfthemes-admin.php:48
+#: functions/mfthemes-admin.php:279
+msgid "主题说明"
+msgstr ""
+
+#: functions/mfthemes-admin.php:300
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: functions/mfthemes-admin.php:305
+msgid "Reset"
+msgstr "重置"
+
+#: functions/mfthemes-function.php:25
+msgid "sidebar1"
+msgstr "首页侧边栏"
+
+#: functions/mfthemes-function.php:33
+msgid "sidebar1fixed"
+msgstr "首页侧边栏-固定"
+
+#: functions/mfthemes-function.php:41
+msgid "sidebar2"
+msgstr "内页侧边栏"
+
+#: functions/mfthemes-function.php:49
+msgid "sidebar2fixed"
+msgstr "内页侧边栏-固定"
+
+#: functions/mfthemes-function.php:243
+msgid "Month"
+msgstr "月"
+
+#: functions/mfthemes-function.php:246
+msgid "Day"
+msgstr "天"
+
+#: functions/mfthemes-function.php:249
+msgid "Hour"
+msgstr "小时"
+
+#: functions/mfthemes-function.php:252
+msgid "Minute"
+msgstr "分钟"
+
+#: functions/mfthemes-function.php:255
+msgid "Second"
+msgstr "秒"
+
+#: functions/mfthemes-function.php:261
+msgid "ago"
+msgstr "前"
+
+#: functions/mfthemes-function.php:284
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions/mfthemes-function.php:286
+msgid "Reply"
+msgstr "回复TA"
+
+#: functions/mfthemes-function.php:367
+msgid "cover"
+msgstr ""
+
+#: functions/mfthemes-function.php:368
+msgid "following"
+msgstr "关注"
+
+#: functions/mfthemes-function.php:369
+msgid "followers"
+msgstr "粉丝"
+
+#: functions/mfthemes-function.php:370
+msgid "likes"
+msgstr "次喜欢"
+
+#: functions/mfthemes-function.php:371
+msgid "mfavatar"
+msgstr ""
+
+#: functions/mfthemes-function.php:469
+msgid "Delete"
+msgstr "删除"
+
+#: functions/mfthemes-function.php:469
+msgid "Editor"
+msgstr "编辑"
+
+#: functions/mfthemes-header.php:31
+msgid "Manage Options"
+msgstr "后台管理"
+
+#: functions/mfthemes-header.php:35
+msgid "'s accounts"
+msgstr "的账号"
+
+#: functions/mfthemes-header.php:46
+msgid "homepage"
+msgstr "个人主页"
+
+#: functions/mfthemes-header.php:50
+msgid "logout"
+msgstr "退出"
+
+#: functions/mfthemes-header.php:164
+msgid "Share to&#58;"
+msgstr "分享到&#58;"
+
+#: functions/mfthemes-header.php:221
+msgid "back to top"
+msgstr "回到顶部"
+
+#: functions/mfthemes-login.php:63
+#: functions/mfthemes-login.php:117
+msgid "Cookies are blocked or not supported by your browser. You must enable cookies to continue."
+msgstr ""
+
+#: functions/mfthemes-login.php:66
+#: functions/mfthemes-login.php:120
+msgid "You are now logged out."
+msgstr "你已经登出."
+
+#: functions/mfthemes-login.php:69
+#: functions/mfthemes-login.php:123
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: functions/mfthemes-login.php:72
+#: functions/mfthemes-login.php:126
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: functions/mfthemes-login.php:75
+#: functions/mfthemes-login.php:129
+msgid "Check your email for your new password."
+msgstr ""
+
+#: functions/mfthemes-login.php:78
+#: functions/mfthemes-login.php:132
+msgid "Registration complete. Please check your e-mail."
+msgstr ""
+
+#: functions/mfthemes-login.php:96
+msgid "Don't have a account?"
+msgstr "还没有账号？"
+
+#: functions/mfthemes-login.php:96
+msgid "register here"
+msgstr "立即注册"
+
+#: functions/mfthemes-login.php:137
+#: functions/mfthemes-meta.php:21
+msgid "Register at "
+msgstr "加入"
+
+#: functions/mfthemes-login.php:150
+msgid "Already to have a account?"
+msgstr "已经拥有一个账号？"
+
+#: functions/mfthemes-login.php:150
+msgid "Log in directly"
+msgstr "直接登录"
+
+#: functions/mfthemes-login.php:170
+msgid "Sorry, that key does not appear to be valid."
+msgstr ""
+
+#: functions/mfthemes-login.php:178
+msgid "Password Recovery"
+msgstr "找回密码"
+
+#: functions/mfthemes-mail.php:41
+msgid "Submit a new post"
+msgstr "发布了新文章"
+
+#: functions/mfthemes-mail.php:42
+msgid "New post url&#58;"
+msgstr "新文章地址&#58;"
+
+#: functions/mfthemes-mail.php:60
+msgid "Welcome to register"
+msgstr "欢迎注册"
+
+#: functions/mfthemes-mail.php:69
+msgid "A new user registered"
+msgstr "有新用户注册"
+
+#: functions/mfthemes-mail.php:86
+#: functions/mfthemes-mail.php:87
+msgid "Follow you now"
+msgstr "关注了你"
+
+#: functions/mfthemes-meta.php:18
+msgid "Retrieve your lost password for "
+msgstr "找回密码"
+
+#: functions/mfthemes-meta.php:30
+msgid "Your Profile at "
+msgstr ""
+
+#: functions/mfthemes-meta.php:35
+msgid "Search&#160;&#34;"
+msgstr "搜索&#160;&#34;"
+
+#: functions/mfthemes-meta.php:55
+msgid "editor"
+msgstr "编辑"
+
+#: functions/mfthemes-meta.php:57
+msgid "video"
+msgstr "视频"
+
+#: functions/mfthemes-meta.php:59
+msgid "images"
+msgstr "图片"
+
+#: functions/mfthemes-meta.php:61
+msgid "Top List"
+msgstr "热门文章"
+
+#: functions/mfthemes-meta.php:63
+msgid "Edit profile"
+msgstr "修改个人资料"
+
+#: functions/mfthemes-pagenavi.php:26
+#: functions/mfthemes-pagenavi.php:81
+#: functions/mfthemes-pagenavi.php:130
+#: functions/mfthemes-pagenavi.php:156
+msgid "prev page"
+msgstr "上一页"
+
+#: functions/mfthemes-pagenavi.php:27
+#: functions/mfthemes-pagenavi.php:82
+#: functions/mfthemes-pagenavi.php:131
+#: functions/mfthemes-pagenavi.php:157
+msgid "prevest page"
+msgstr "最前页"
+
+#: functions/mfthemes-pagenavi.php:33
+#: functions/mfthemes-pagenavi.php:88
+#: functions/mfthemes-pagenavi.php:137
+#: functions/mfthemes-pagenavi.php:163
+msgid "lastest page"
+msgstr "最后页"
+
+#: functions/mfthemes-pagenavi.php:34
+#: functions/mfthemes-pagenavi.php:89
+#: functions/mfthemes-pagenavi.php:138
+#: functions/mfthemes-pagenavi.php:164
+msgid "next page"
+msgstr "下一页"
+
+#: functions/mfthemes-pagenavi.php:37
+#: functions/mfthemes-pagenavi.php:94
+#: functions/mfthemes-pagenavi.php:143
+#: functions/mfthemes-pagenavi.php:169
+msgid "is"
+msgstr "第"
+
+#: functions/mfthemes-pagenavi.php:37
+#: functions/mfthemes-pagenavi.php:94
+#: functions/mfthemes-pagenavi.php:143
+#: functions/mfthemes-pagenavi.php:169
+msgid "page"
+msgstr "页"
+
+#: functions/mfthemes-plugin.php:193
+#: functions/mfthemes-plugin.php:239
+#: functions/mfthemes-plugin.php:321
+msgid "no title"
+msgstr "暂无标题"
+
+#: functions/mfthemes-widget.php:7
+#: functions/mfthemes-widget.php:8
+#: functions/mfthemes-widget.php:12
+msgid "Similar images"
+msgstr "相关文章"
+
+#: functions/mfthemes-widget.php:45
+msgid "no similar posts"
+msgstr "无相关文章"
+
+#: functions/mfthemes-widget.php:68
+#: functions/mfthemes-widget.php:116
+#: functions/mfthemes-widget.php:161
+#: functions/mfthemes-widget.php:228
+#: functions/mfthemes-widget.php:312
+#: functions/mfthemes-widget.php:375
+#: functions/mfthemes-widget.php:425
+msgid "widget title&#58;"
+msgstr "标题&#58;"
+
+#: functions/mfthemes-widget.php:69
+#: functions/mfthemes-widget.php:117
+#: functions/mfthemes-widget.php:229
+msgid "Post number&#58;"
+msgstr "文章数量&#58;"
+
+#: functions/mfthemes-widget.php:131
+#: functions/mfthemes-widget.php:132
+msgid "Add for sidebar"
+msgstr "侧边栏广告"
+
+#: functions/mfthemes-widget.php:162
+msgid "Ad html code&#58;"
+msgstr "广告html代码&#58;"
+
+#: functions/mfthemes-widget.php:176
+#: functions/mfthemes-widget.php:177
+#: functions/mfthemes-widget.php:183
+msgid "Most popular images"
+msgstr "最多点击"
+
+#: functions/mfthemes-widget.php:242
+#: functions/mfthemes-widget.php:243
+#: functions/mfthemes-widget.php:247
+msgid "Author info"
+msgstr "作者信息"
+
+#: functions/mfthemes-widget.php:276
+msgid "Login now"
+msgstr "现在就加入"
+
+#: functions/mfthemes-widget.php:279
+msgid "sign up"
+msgstr "注册"
+
+#: functions/mfthemes-widget.php:288
+msgid "Author&#58"
+msgstr "本文作者&#58"
+
+#: functions/mfthemes-widget.php:327
+#: functions/mfthemes-widget.php:328
+#: functions/mfthemes-widget.php:333
+msgid "SNS"
+msgstr "SNS社交"
+
+#: functions/mfthemes-widget.php:340
+#: functions/mfthemes-widget.php:350
+msgid "RSS"
+msgstr "RSS订阅"
+
+#: functions/mfthemes-widget.php:341
+msgid "tsina"
+msgstr "新浪微博"
+
+#: functions/mfthemes-widget.php:342
+msgid "tqq"
+msgstr "腾讯微博"
+
+#: functions/mfthemes-widget.php:343
+msgid "renren"
+msgstr "人人网"
+
+#: functions/mfthemes-widget.php:344
+msgid "douban"
+msgstr "豆瓣网"
+
+#: functions/mfthemes-widget.php:345
+msgid "kaixin"
+msgstr "开心网"
+
+#: functions/forms/forgot-password/forgot-password-form.php:16
+msgid "Please enter your username or email address. A new password will be emailed to you."
+msgstr "请输入用户名或者邮箱, 一个新的密码将会发送到你的邮箱."
+
+#: functions/forms/forgot-password/forgot-password-form.php:19
+msgid "Username/Email&#58;"
+msgstr "用户名/邮箱&#58;"
+
+#: functions/forms/forgot-password/forgot-password-form.php:24
+msgid "Get New Password"
+msgstr "获取新密码"
+
+#: functions/forms/login/login-process.php:42
+#: functions/forms/register/register-process.php:83
+msgid "<strong>ERROR</strong>: Wrong captcha."
+msgstr "<strong>错误</strong>: 验证码错误."
+
+#: functions/forms/register/register-form.php:27
+msgid "Login user name, only accept letters and numbers"
+msgstr "登录用户名，只能由数字和字母组成"
+
+#: functions/forms/register/register-form.php:30
+msgid "Email&#58;"
+msgstr "邮箱&#58;"
+
+#: functions/forms/register/register-form.php:35
+msgid "Password length is greater than 8"
+msgstr "密码长度至少8位"
+
+#: functions/forms/register/register-form.php:39
+msgid "Repeat the password"
+msgstr "再次输入密码"
+
+#: functions/forms/register/register-form.php:50
+msgid "Create Account"
+msgstr "注册"
+
+#: functions/forms/register/register-process.php:53
+msgid "<strong>ERROR</strong>: Please enter a username."
+msgstr ""
+
+#: functions/forms/register/register-process.php:55
+msgid "<strong>ERROR</strong>: This username is invalid.  Please enter a valid username."
+msgstr ""
+
+#: functions/forms/register/register-process.php:58
+msgid "<strong>ERROR</strong>: This username is already registered, please choose another one."
+msgstr ""
+
+#: functions/forms/register/register-process.php:62
+msgid "<strong>ERROR</strong>: Please type your e-mail address."
+msgstr ""
+
+#: functions/forms/register/register-process.php:64
+msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
+msgstr ""
+
+#: functions/forms/register/register-process.php:67
+msgid "<strong>ERROR</strong>: This email is already registered, please choose another one."
+msgstr "<strong>错误</strong>: 此邮箱已被注册, 请更换一个邮箱"
+
+#: functions/forms/register/register-process.php:72
+msgid "<strong>ERROR</strong>: Please enter a password."
+msgstr "<strong>错误</strong>: 请输入密码."
+
+#: functions/forms/register/register-process.php:74
+msgid "<strong>ERROR</strong>: Password length least 8 words"
+msgstr "<strong>错误</strong>: 密码长度至少8位"
+
+#: functions/forms/register/register-process.php:76
+msgid "<strong>ERROR</strong>: Please enter password twice."
+msgstr "<strong>错误</strong>: 请再次输入密码."
+
+#: functions/forms/register/register-process.php:78
+msgid "<strong>ERROR</strong>: Passwords do not match."
+msgstr "<strong>错误</strong>: 两次输入密码不一致"
+
+#: functions/forms/register/register-process.php:97
+#, php-format
+msgid "<strong>ERROR</strong>: Couldn&#8217;t register you... please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr ""
+
+#: lib/comments-ajax.php:15
+#: lib/comments-ajax.php:24
+#: lib/comments-ajax.php:27
+msgid "无效的评论状态"
+msgstr ""
+
+#: lib/comments-ajax.php:21
+msgid "对不起,这个页面的评论已被关闭"
+msgstr ""
+
+#: lib/comments-ajax.php:30
+msgid "受密码保护"
+msgstr ""
+
+#: lib/comments-ajax.php:54
+msgid "抱歉,你必须登录后才能发表评论"
+msgstr ""
+
+#: lib/comments-ajax.php:59
+msgid "错误:昵称和邮箱地址都必须填写"
+msgstr ""
+
+#: lib/comments-ajax.php:61
+msgid "错误:请输入邮箱地址"
+msgstr ""
+
+#: lib/comments-ajax.php:65
+msgid "错误:请输入评论内容."
+msgstr ""
+
+#: lib/comments-ajax.php:75
+msgid "请不要发表内容重复的评论"
+msgstr ""
+
+#: lib/comments-ajax.php:82
+msgid "你发表评论的速度太快了,稍等一会儿"
+msgstr ""
+
+#~ msgid "Who likes"
+#~ msgstr "有谁喜欢"
+
+#~ msgid "posts"
+#~ msgstr "文章"
+
+#~ msgid "New audio"
+#~ msgstr "发布音乐"
+
+#~ msgid "Blogger is bad"
+#~ msgstr "博主是坏人"
+
+#~ msgid "Woo blare, blogger is bad, QieGao are eaten by blogger"
+#~ msgstr "呜呜呜，博主是坏人，切糕都被博主吃了！！！"
+
+#~ msgid "Leave a comment"
+#~ msgstr "我要留言"
+
+#~ msgid "1 Comment"
+#~ msgstr "1 评论"
+
+#~ msgid "% Comments"
+#~ msgstr "%条评论"
+
+#~ msgid "widgets data"
+#~ msgstr "文章信息"
+
+#~ msgid "link"
+#~ msgstr "链接"
+
+#~ msgid "photos"
+#~ msgstr "图"
+
+#~ msgid ", welcome back!"
+#~ msgstr "，欢迎归来！"
+
+#~ msgid "Pro, you don't want to say something?"
+#~ msgstr "亲, 就不想说点什么?"
+
+#~ msgid "<em class=\"post-tags\"></em>Tags&#58;"
+#~ msgstr "<em class=\"post-tags\"></em>文章标签&#58;"
+
+#~ msgid "Read all the "
+#~ msgstr "浏览全部"
+
+#~ msgid " comments"
+#~ msgstr "条评论"
+
+#~ msgid "Upload new images to"
+#~ msgstr "上传图片到"
+
+#~ msgid "read more"
+#~ msgstr "阅读全文"
+
+#~ msgid "t163"
+#~ msgstr "网易微博"
+
+#~ msgid "tsoho"
+#~ msgstr "搜狐微博"
+
+#~ msgid "Next Post&#58;"
+#~ msgstr "下一篇&#58;"
+
+#~ msgid "No Next Post"
+#~ msgstr "没有下一篇文章了"
+
+#~ msgid "Previous Post&#58;"
+#~ msgstr "上一篇&#58;"
+
+#~ msgid "No Previous Post"
+#~ msgstr "没有上一篇文章了"
+
+#~ msgid "page{$i}"
+#~ msgstr "第{$i}页"
+
+#~ msgid "A new post on"
+#~ msgstr "博客有新文章"
+
+#~ msgid "You need <a href=\\\"%s\\\">logged in</a> to comment."
+#~ msgstr "你需要<a href=\\\"%s\\\">登入</a>之后，才能发表评论。"
+
+#~ msgid "Blog Rolls&#58; "
+#~ msgstr "友情链接&#58; "
+
+#~ msgid "weibo"
+#~ msgstr "新浪微博"
+
+#~ msgid "Your sina weibo uid here."
+#~ msgstr "在此处填写新浪微博uid"
+
+#~ msgid "You dont't create any "
+#~ msgstr "你还没有"
+
+#, fuzzy
+#~ msgid "New "
+#~ msgstr "发布文字"
+
+#~ msgid ", just create one here"
+#~ msgstr "呢， 快来"
+
+#~ msgid "comments"
+#~ msgstr "条评论"
+
+#~ msgid "unfollow"
+#~ msgstr "取消"
+
+#~ msgid "Upload new Video"
+#~ msgstr "更新了视频"
+
+#~ msgid "Write a new post"
+#~ msgstr "撰写新文章"
+
+#~ msgid "Enter a description; this information will appear on your profile."
+#~ msgstr "输入个人简介,将会显示在个人页面"
+
+#~ msgid "tengxun"
+#~ msgstr "腾讯微博"
+
+#~ msgid "Your tengxun weibo nickname here."
+#~ msgstr "在此处填写腾讯微博昵称"
+
+#~ msgid "which will be displayed in post page"
+#~ msgstr "将会在你发布的文章页显示"
+
+#~ msgid "Publish at&#58;"
+#~ msgstr "发布于&#58; "
+
+#~ msgid "Website"
+#~ msgstr "个人网页"
+
+#~ msgid "Personal space of micro blog or qzone, etc"
+#~ msgstr "个人的微博、空间网址等等..."
+
+#~ msgid "Nickname&#58;"
+#~ msgstr "昵称&#58;"
+
+#~ msgid "Display Name"
+#~ msgstr "显示名称"
+
+#~ msgid ""
+#~ "&#40;you should fill in the basic material and save again after to "
+#~ "choose&#41;"
+#~ msgstr "（您应该在填写基本资料并保存后再来选择）"
+
+#~ msgid "My accounts"
+#~ msgstr "我的账号"
+
+#~ msgid "About us"
+#~ msgstr "关于我们"
+
+#~ msgid "views"
+#~ msgstr "次阅读"
+
+#~ msgid "PostNum"
+#~ msgstr "文章"
+
+#~ msgid "Total"
+#~ msgstr "共"
+
+#~ msgid "CommentsNum"
+#~ msgstr "评论"
+
+#~ msgid "Content"
+#~ msgstr "内容"
+
+#~ msgid "Contact"
+#~ msgstr "联系"
+
+#~ msgid "Links"
+#~ msgstr "链接"
+
+#~ msgid "Data loading, please wait a moment"
+#~ msgstr "数据加载中,请稍候..."
+
+#~ msgid "audio list"
+#~ msgstr "音乐"
+
+#~ msgid ""
+#~ "Enter song title, album or artist.It's supported by <a href=\"http://www."
+#~ "xiami.com/\">Xiami</a>"
+#~ msgstr ""
+#~ "输入歌名、专辑或艺术家。音乐服务由<a href=\"http://www.xiami.com/\">虾米网"
+#~ "</a>提供"
+
+#~ msgid "There is"
+#~ msgstr "共有"
+
+#~ msgid "similar width"
+#~ msgstr "首和"
+
+#~ msgid "song"
+#~ msgstr "相关歌曲"
+
+#~ msgid "Upload Music"
+#~ msgstr "添加音乐"
+
+#~ msgid "Support youku and tudou"
+#~ msgstr "支持优酷、土豆的视频"
+
+#~ msgid "input video url, click sure to analysis data...."
+#~ msgstr "输入视频地址， 点击确认开始分析数据。。。"
+
+#~ msgid "image preview"
+#~ msgstr "图片预览"
+
+#~ msgid "Video page"
+#~ msgstr "视频"
+
+#~ msgid "Share at weibo"
+#~ msgstr "分享到新浪微博"
+
+#~ msgid "Share at qq"
+#~ msgstr "分享到QQ空间"
+
+#~ msgid "Share at tx"
+#~ msgstr "分享到腾讯微博"
+
+#~ msgid "Share at renren"
+#~ msgstr "分享到人人"
+
+#~ msgid "Share at douban"
+#~ msgstr "分享到豆瓣"
+
+#~ msgid "Submit"
+#~ msgstr "发表"
+
+#, fuzzy
+#~ msgid "Audio url"
+#~ msgstr "视频地址"
+
+#~ msgid "Video upload"
+#~ msgstr "分享视频"
+
+#~ msgid "Create Text"
+#~ msgstr "写文字"
+
+#~ msgid "Create Image"
+#~ msgstr "贴图片"
+
+#~ msgid "Create Video"
+#~ msgstr "转视频"
+
+#~ msgid "Create Music"
+#~ msgstr "发音乐"
+
+#~ msgid "Create weibo"
+#~ msgstr "晒心情"
+
+#~ msgid "Xiami music url"
+#~ msgstr "虾米音乐地址"
+
+#~ msgid "Tags"
+#~ msgstr "标签"
+
+#~ msgid "Posts list all your share"
+#~ msgstr "我的文章"
+
+#~ msgid "popular tags&#58;"
+#~ msgstr "热门标签&#58;"
+
+#, fuzzy
+#~ msgid "Username"
+#~ msgstr "用户名&#58;"
+
+#~ msgid "add comment for share"
+#~ msgstr "在这里输入转发评论..."
+
+#~ msgid "Login/Register"
+#~ msgstr "注册"
+
+#~ msgid "Note"
+#~ msgstr "评论"
+
+#~ msgid "pengyou"
+#~ msgstr "朋友网"
+
+#~ msgid "Details"
+#~ msgstr "详细"
+
+#~ msgid "Groups"
+#~ msgstr "分类"
+
+#~ msgid "<a href=\"%1$s\">%2$s</a> has logged in,"
+#~ msgstr "<a href=\"%1$s\">%2$s</a>已登录，"
+
+#~ msgid "Log out of this account"
+#~ msgstr "登出此帐户？"
+
+#~ msgid "Quit &raquo;"
+#~ msgstr "登出 &raquo;"
+
+#~ msgid "Change name &raquo;"
+#~ msgstr "修改信息 &raquo;"
+
+#~ msgid "Scroll to Top"
+#~ msgstr "回到顶部"
+
+#~ msgid "Primary Widget Area"
+#~ msgstr "小工具区域"
+
+#~ msgid "Tags Cloud"
+#~ msgstr "热门标签"
+
+#~ msgid "MailMe"
+#~ msgstr "邮件联系"
+
+#~ msgid "There's no result for "
+#~ msgstr "木有这玩意"
+
+#~ msgid "Download"
+#~ msgstr "打包下载"
+
+#~ msgid "Lack of Package"
+#~ msgstr "暂无下载"
+
+#~ msgid "SNS setting"
+#~ msgstr "SNS设置"
+
+#~ msgid "Tips setting"
+#~ msgstr "网站公告"
+
+#~ msgid "Click the button right to create new tips"
+#~ msgstr "点击右侧的按钮来新建公告"
+
+#~ msgid ""
+#~ "if you wan't to delete the tip, just click the <code>X</code> right there."
+#~ msgstr "如需删除，点击公告右侧<code>X</code>"
+
+#~ msgid "sssssssssssssssssssssssssssss"
+#~ msgstr ""
+#~ "今晚，一切都变得虚虚实实，真伪难辩；今晚，你们的眼睛将欺骗你们的心灵!"
+
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "您的评论正在等待审核。"
+
+#~ msgid "Sorry, you must be logged in to post a comment."
+#~ msgstr "对不起，你必须登录之后，才能发表评论。"
+
+#~ msgid "Error: please fill the required fields (name, email)."
+#~ msgstr "错误：请正确填写昵称、邮箱！"
+
+#~ msgid "Error: please enter a valid email address."
+#~ msgstr "错误：请填写有效的邮箱地址！"
+
+#~ msgid "Error: please type a comment."
+#~ msgstr "错误：请输入评论内容！"
+
+#~ msgid "<h2>Responses</h2>"
+#~ msgstr "<h2>评论回复</h2>"
+
+#~ msgid "iPhoto Theme Options<span>Version: "
+#~ msgstr "iPhoto主题设置<span>当前版本： "
+
+#~ msgid "jQuery Effect"
+#~ msgstr "jQuery特效"
+
+#~ msgid "Ad Words"
+#~ msgstr "主题广告"
+
+#~ msgid "Website Information"
+#~ msgstr "网站信息"
+
+#~ msgid "Analytics Code"
+#~ msgstr "统计代码"
+
+#~ msgid "Footer Copyright"
+#~ msgstr "底部版权"
+
+#~ msgid "iPhoto Theme Declare"
+#~ msgstr "主题说明"
+
+#~ msgid ""
+#~ "iPhoto use jquery 1.4.4 which contained in this theme, you can also use "
+#~ "the Google one instead."
+#~ msgstr "主题默认使用自带的jQuery1.4.4，当然你也可以使用新浪提供的jQuery库。"
+
+#~ msgid "Load the jQuery Library supported by Google"
+#~ msgstr "调用新浪的jQuery库"
+
+#~ msgid "Tags number of index.php"
+#~ msgstr "首页标签数量"
+
+#~ msgid "Tags number of index.php, default number is 20"
+#~ msgstr "默认首页标签数量为 20"
+
+#~ msgid "<em>Ad under the content, html code</em>"
+#~ msgstr "<em>文章下方广告, html代码</em>"
+
+#~ msgid "<em>Ad at siderbar, html code </em>"
+#~ msgstr "<em>侧边栏广告位, html代码</em>"
+
+#~ msgid ""
+#~ "<em>Keywords, separate by English commas. like MuFeng, Computer, "
+#~ "Software</em>"
+#~ msgstr ""
+#~ "<em><strong>网站关键词</strong>, 用英文逗号隔开，比如：牧风、计算机、软件"
+#~ "</em>"
+
+#~ msgid ""
+#~ "<em>Description, explain what's this site about. like MuFeng, Breathing "
+#~ "the wind</em>"
+#~ msgstr ""
+#~ "<em><strong>网站描述</strong>, 简单描述你的网站内容. 比如：牧风,呼吸风的气"
+#~ "息</em>"
+
+#~ msgid ""
+#~ "You can get your Google Analytics code <a target=\"_blank\" href="
+#~ "\"https://www.google.com/analytics/settings/check_status_profile_handler"
+#~ "\">here</a>."
+#~ msgstr ""
+#~ "你可以从<a target=\"_blank\" href=\"https://www.google.com/analytics/"
+#~ "settings/check_status_profile_handler\">这里</a>得到Google Analytics代码"
+
+#~ msgid "<b>Preview</b>"
+#~ msgstr "<b>预览</b>"
+
+#~ msgid "Introduction"
+#~ msgstr "介绍"
+
+#~ msgid ""
+#~ "iPhoto is evolved from one theme of Tumblr and turned it into a photo "
+#~ "theme which can be used at wordpress."
+#~ msgstr "iPhoto从Tumblr主题演变而来，用于wordpress图片主题，并加入相应功能。"
+
+#~ msgid "Published Address"
+#~ msgstr "发布地址"
+
+#~ msgid "Report Bugs"
+#~ msgstr "反馈Bugs"
+
+#~ msgid ""
+#~ "Weibo <a href=\"http://weibo.com/meapo\" target=\"_blank\">@mufeng.me</a> "
+#~ "or leave a message at <a href=\"http://mufeng.me\" target=\"_blank"
+#~ "\">http://mufeng.me</a>。"
+#~ msgstr ""
+#~ "新浪微博：<a href=\"http://weibo.com/meapo\" target=\"_blank\">@牧风ing</"
+#~ "a>，或者到 <a href=\"http://mufeng.me\" target=\"_blank\">http://mufeng."
+#~ "me</a> 留言。"
+
+#~ msgid "You can post you'r images here."
+#~ msgstr "亲, 你可在此页发布图片~"
+
+#~ msgid "Add photos"
+#~ msgstr "添加图片"
+
+#~ msgid "jpg,gif,png or bmp"
+#~ msgstr "jpg, gif, png或者bmp格式"
+
+#~ msgid "Local photos"
+#~ msgstr "本地图片"
+
+#~ msgid "Network photos"
+#~ msgstr "网络图片"
+
+#~ msgid "Add local photos"
+#~ msgstr "添加本地图片"
+
+#~ msgid "Add"
+#~ msgstr "添加"
+
+#~ msgid "Please input the address"
+#~ msgstr "请输入图片地址"
+
+#~ msgid "Add Categories"
+#~ msgstr "添加分类"
+
+#~ msgid "Add tags"
+#~ msgstr "添加标签"
+
+#~ msgid "Prev post"
+#~ msgstr "上一页"
+
+#~ msgid "<h2>Popular</h2>"
+#~ msgstr "<h2>最热美图</h2>"
+
+#~ msgid "<h2>Related</h2>"
+#~ msgstr "<h2>相关美图</h2>"
+
+#~ msgid "You must register before you can download."
+#~ msgstr "你必须注册本站,才可以下下载!"
+
+#~ msgid ""
+#~ "iPhoto has already containered <b>phZoom slide effect</b>, you may want "
+#~ "to try it, and you should close relative plugins"
+#~ msgstr ""
+#~ "主题集成了<b>phzoom图片特效</b>，也许你想试试呢，当然你也要注意关闭相关插"
+#~ "件。"
+
+#~ msgid "Deactivate phZoom slide effect"
+#~ msgstr "关闭phZoom图片特效"
+
+#~ msgid "<h2>Closest Posts</h2>"
+#~ msgstr "<h2>上下文章</h2>"
+
+#~ msgid ""
+#~ "iPhoto is created, developed and maintained by <a href=\"http://mufeng.me/"
+#~ "\">MuFeng</a>.  If you like iPhoto,  please donate.  It will help in "
+#~ "developing new features and versions."
+#~ msgstr ""
+#~ "本主题由 <a href=\"http://mufeng.me\">牧风</a> 创建、开发和维护。假如你喜"
+#~ "欢该主题，可以捐助我，这样我可更好地加入更多的功能、以及新版的更迭。"
+
+#~ msgid "Alipay"
+#~ msgstr "支付宝"
+
+#~ msgid "Taobao product information"
+#~ msgstr "淘宝产品信息"
+
+#~ msgid ""
+#~ "<p>Below each field to keep clean out treasure products information</p>"
+#~ msgstr "<p>下面各个字段用来保存淘宝产品的相关信息</p>"
+
+#~ msgid ""
+#~ "<span style=\"font-weight:bold;color:#666\">Enable taobao on this post</"
+#~ "span>"
+#~ msgstr "<span style=\"font-weight:bold;color:#666\">关联淘宝产品?</span>"
+
+#~ msgid ""
+#~ "<em style=\"color:#999;font-size:12px;\">Please confirm whether this "
+#~ "article related products to clean out treasure, if it is, it can call on "
+#~ "taobao shop through the pictures and price information to let visitors "
+#~ "know, and guide him (or her) to clean out treasure to store to buy.</em>"
+#~ msgstr ""
+#~ "<em style=\"color:#999;font-size:12px;\">请确认这篇文章是否要关联淘宝产品,"
+#~ "如果是,则可以通过调用淘宝店上的图片和价格等信息让访客了解,并指引他(或她)前"
+#~ "往淘宝店购买.</em>"
+
+#~ msgid "<p style=\"font-weight:bold;margin-top:15px;\">Product ID</p>"
+#~ msgstr "<p style=\"font-weight:bold;margin-top:15px;\">产品 ID</p>"
+
+#~ msgid ""
+#~ "<p>Taobao product Numbers (ID), you can find the backend URL products or "
+#~ "Numbers.</p>"
+#~ msgstr "<p>淘宝上的产品编号(ID), 你可以在产品 URL 或者后台找到该编号.</p>"
+
+#~ msgid "Relative Plugins"
+#~ msgstr "相关插件"
+
+#~ msgid "Index page infinite loading posts."
+#~ msgstr "首页无限加载文章"
+
+#~ msgid "Deactivate the Infinite loading posts"
+#~ msgstr "关闭首页无限加载文章"
+
+#~ msgid "<strong>Animation of relayout elements</strong>"
+#~ msgstr "<strong>首页动画</strong>"
+
+#~ msgid "Deactivate animation effect on index page"
+#~ msgstr "关闭首页文章加载动画效果"
+
+#~ msgid ""
+#~ "WP-PostViews, Enables you to display how many times a post/page had been "
+#~ "viewed."
+#~ msgstr ""
+#~ "<strong>WP-PostViews</strong>,这是一个访问量统计插件。可以查看页面的访问"
+#~ "量。（需要安装WP-PostViews插件）"
+
+#~ msgid "Activate WP-PostViews"
+#~ msgstr "开启WP-PostViews接口"
+
+#~ msgid "Keep me signed in"
+#~ msgstr "一直登陆"
+
+#~ msgid "Related Posts"
+#~ msgstr "相关文章"
+
+#~ msgid "Update tips of iphoto"
+#~ msgstr "主题更新提示"
+
+#~ msgid "Deactivate update tips of iphoto"
+#~ msgstr "关闭主题更新提示"
+
+#~ msgid "Theme Updates"
+#~ msgstr "主题升级"
+
+#~ msgid "There is a new version of the iphoto theme available."
+#~ msgstr "iPhoto 有新版本啦！"
+
+#~ msgid " You have version "
+#~ msgstr "当前版本"
+
+#~ msgid " installed. Update to version "
+#~ msgstr "，请及时更新到"
+
+#~ msgid "Please note: make a backup of the theme bofore update."
+#~ msgstr "友情提示：升级安装前请注意备份！"
+
+#~ msgid "Download iPhoto"
+#~ msgstr "下载 iPhoto"
+
+#~ msgid "Changelog"
+#~ msgstr "更新内容"
+
+#~ msgid "Activate animation, Animation effect"
+#~ msgstr "开启元素重排动画, 动画效果"
+
+#~ msgid ""
+#~ "iPhoto can show the comments on index.php , if you don't like it,<b>just "
+#~ "close it</b>."
+#~ msgstr "iPhoto可以在首页显示评论头像，假如你不喜欢可以<b>勾选关闭</b>。"
+
+#~ msgid "Close the comments on index.php."
+#~ msgstr "关闭首页显示评论"
+
+#~ msgid ""
+#~ "iPhoto has already containered Related Posts, you may want to try it, and "
+#~ "you should close relative plugins"
+#~ msgstr ""
+#~ "<strong>相关文章</strong>，也许你想试试，当然也要关闭某些功能重复的插件。"
+
+#~ msgid "Activate related posts,  and related posts show at most"
+#~ msgstr "开启相关文章功能，相关文章最多显示"
+
+#~ msgid "Google Search"
+#~ msgstr "谷爷搜索"
+
+#~ msgid ""
+#~ "You can get your Google it <a target=\"_blank\" href=\"http://www.google."
+#~ "com/coop/cse/\">here</a>.Like ."
+#~ msgstr ""
+#~ "你可以从<a target=\"_blank\" href=\"https://www.google.com/analytics/"
+#~ "settings/check_status_profile_handler\">这里</a>得到Google搜索代码，比如："
+
+#~ msgid "LeftBar Ads"
+#~ msgstr "左边栏广告设置"
+
+#~ msgid "RightBar Ads"
+#~ msgstr "右边栏广告设置"
+
+#~ msgid "Fanfou"
+#~ msgstr "饭否"
+
+#~ msgid "Tencent"
+#~ msgstr "腾讯微博"
+
+#~ msgid "Prev"
+#~ msgstr "上一篇"
+
+#~ msgid "Theme"
+#~ msgstr "主题"
+
+#~ msgid "Updates"
+#~ msgstr "升级"
+
+#~ msgid " theme available.</strong> You have version "
+#~ msgstr " 又有新版本啦！ </strong>当前为"
+
+#~ msgid ""
+#~ "<strong>Please note:</strong> make a <strong>backup</strong> of the Theme "
+#~ "inside your WordPress installation folder <strong>"
+#~ msgstr "<strong>友情提示:</strong>更新前请做好备份! 主题文件在：<strong>"
+
+#~ msgid ""
+#~ "Extract the zip contents, upload them by using FTP to the <strong>/wp-"
+#~ "content/themes/iphoto/</strong> folder overwriting the old ones."
+#~ msgstr ""
+#~ "解压主题文件，使用FTP工具将文件上传到：<strong>/wp-content/themes/iphoto/"
+#~ "</strong>覆盖原有主题。"
+
+#~ msgid ""
+#~ "To update the Theme, go to <a href=\"http://icold.me/wordpress-theme-"
+#~ "iphoto\" target=\"_blank\">iCold Blog</a>, and download the theme files."
+#~ msgstr ""
+#~ "备份完成后，请前往 <a href=\"http://icold.me/wordpress-theme-iphoto\" "
+#~ "target=\"_blank\">无冷博客</a>，下载最新主题文件。"
+
+#~ msgid "<em class=\"tc\"></em><span>Prev</span>"
+#~ msgstr "<em class=\"tc\"></em><span>上一篇</span>"
+
+#~ msgid "<em class=\"bc\"></em><span>Next</span>"
+#~ msgstr "<em class=\"bc\"></em><span>下一篇</span>"
+
+#~ msgid ""
+#~ "iPhoto has already containered Ajax Effect on Single page, you may want "
+#~ "to try."
+#~ msgstr "主题文章页集成了Ajax加载文章的效果，也许你想尝试。"
